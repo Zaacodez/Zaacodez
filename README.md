@@ -103,4 +103,4 @@ Bilingual (English & Bahasa Indonesia) job application workspace combining struc
 Open to Junior Software Developer, Android Developer, and entry-level application engineering opportunities.
 
 - **GitHub:** [github.com/Zaacodez](https://github.com/Zaacodez)
-- **Email:** [napcodezx@gmail.com](mailto:napcodezx@gmail.com)
+- **Email:** [napcodezx@gmail.com](mailto:nandamailwork@gmail.com)
