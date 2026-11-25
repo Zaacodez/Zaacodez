@@ -4,7 +4,7 @@
 
 Recent Informatics (Bachelor's) graduate focused on building practical Android and full-stack software applications. I work primarily with **Kotlin** and **Java**, alongside modern backend, database, and AI tooling including **Supabase**, **REST APIs**, **Google Gemini API**, and **Docker**. Backed by hands-on troubleshooting from an IT Support internship and a vocational Computer Networking (TKJ) background, I focus on writing clean, reliable software and continuously strengthening my engineering fundamentals.
 
-[GitHub](https://github.com/Zaacodez) · [Email](mailto:napcodezx@gmail.com)
+[GitHub](https://github.com/Zaacodez) · [Email](mailto:nandamailwork@gmail.com)
 
 ---
 
